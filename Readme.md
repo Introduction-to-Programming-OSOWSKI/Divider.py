@@ -1,16 +1,26 @@
-# **Assignment Title**  
+# **Divider**  
 
 ## **Assignment Description**  
-
+Create a function called divider() that returns the quotient of two given variables x and y.
 
 ## **Examples**  
->
+>divider(10,2)  
+5.0
 
-## **Limitations**  
+>divider(100, 4)  
+25.0
+
+>divider(5, 4)  
+1.25
+
+## **Limitations** 
+N/A 
 
 ## **Hints**  
+The python symbol for divide is /
 
 ## **Concepts**  
+functions, arguments
 
 ---
 
